@@ -1,4 +1,4 @@
-# G1B4_BED_GradedProject4
+# BED-RESTAPI-EmployeeManagement
 
 This is an Employee Management Rest Api based Web application, which has CRUDSS (Create, Read, Update, Delete, Search and Sort) functionality along with Spring Security.
 
